@@ -7,7 +7,8 @@
     <title>Mi sitio webt</title>
 </head>
 <body>
-    <h1>Hola este es mi sitio web del curso de platzi</h1>
+    <h1>Bienvenido a mi sitio web del curso de platzi</h1>
+    <p>Aprende acerca de Github e integración continua</p>
     
 </body>
 </html>
